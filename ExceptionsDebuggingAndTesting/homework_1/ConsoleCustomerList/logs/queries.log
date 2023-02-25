@@ -1,0 +1,13 @@
+2023-02-04 00:40:31.782 [main] INFO  Main - help
+2023-02-04 00:40:39.730 [main] INFO  Main - add ljkh
+2023-02-04 23:05:30.750 [main] INFO  Main - Call command: help
+2023-02-04 23:06:38.057 [main] INFO  Main - Call command: help
+2023-02-04 23:06:45.984 [main] INFO  Main - Call command: add jh
+2023-02-04 23:07:13.997 [main] INFO  Main - Call command: add ivanov ivan 
+2023-02-04 23:07:25.742 [main] INFO  Main - Call command: add Василий Петров vasily.petrov@gmail.com +79215637722
+2023-02-04 23:07:29.141 [main] INFO  Main - Call command: list
+2023-02-04 23:08:00.088 [main] INFO  Main - Call command: remove
+2023-02-04 23:08:52.453 [main] INFO  Main - Call command: count
+2023-02-04 23:09:34.288 [main] INFO  Main - Call command: remove Василий Петров
+2023-02-04 23:09:39.151 [main] INFO  Main - Call command: count
+2023-02-04 23:09:42.926 [main] INFO  Main - Call command: list

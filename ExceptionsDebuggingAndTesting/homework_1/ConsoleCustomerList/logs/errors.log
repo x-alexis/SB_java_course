@@ -1,0 +1,15 @@
+2023-02-04 00:40:39.732 [main] ERROR Main - Wrong command! add ljkh
+IllegalFormatException: Неверный формат команды.
+	at CustomerStorage.addCustomer(CustomerStorage.java:19) ~[classes/:?]
+	at Main.main(Main.java:28) ~[classes/:?]
+2023-02-04 23:06:45.985 [main] ERROR Main - Wrong command! add jh
+IllegalFormatException: Неверный формат команды.
+	at CustomerStorage.addCustomer(CustomerStorage.java:19) ~[classes/:?]
+	at Main.main(Main.java:28) ~[classes/:?]
+2023-02-04 23:07:13.997 [main] ERROR Main - Wrong command! add ivanov ivan 
+IllegalFormatException: Неверный формат команды.
+	at CustomerStorage.addCustomer(CustomerStorage.java:19) ~[classes/:?]
+	at Main.main(Main.java:28) ~[classes/:?]
+2023-02-04 23:08:00.089 [main] ERROR Main - Wrong command! remove
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at Main.main(Main.java:36) ~[classes/:?]
